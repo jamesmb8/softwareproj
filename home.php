@@ -6,6 +6,6 @@
     <title>Home page</title>
 </head>
 <body>
-    <h1>Get started</h1>
+    <h1>Get started with an account</h1>
 </body>
 </html>
